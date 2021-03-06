@@ -9,7 +9,7 @@ Time spent: **10** hours spent in total
 Link to project: (https://glitch.com/edit/#!/smooth-factual-whale)
 
 
-## Required Functionality
+# Required Functionality
 
 The following **required** functionality is complete:
 
@@ -38,10 +38,12 @@ The following **additional** features are implemented:
 - [x] The timer is a gradient switching between the red, yellow, and green
 - [x] When the user ran out of time, the popup appears that the time is up and the number of mistakes left
 
-## Video Walkthrough
+# Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 Gif 1, showing the mistakes and timeout alerts with the timer:
+
+
 ![](https://cdn.glitch.com/58851715-84a9-4992-aab0-f97aeae62535%2Fezgif.com-crop.gif?v=1615035442082)
 
 Gif 2, showing the game lost alert with the timer:
@@ -49,6 +51,7 @@ Gif 2, showing the game lost alert with the timer:
 ![](https://cdn.glitch.com/58851715-84a9-4992-aab0-f97aeae62535%2Fezgif.com-crop-2.gif?v=1615035589355)
 
 Gif 3, showing the win alert with the timer:
+
 ![](https://cdn.glitch.com/58851715-84a9-4992-aab0-f97aeae62535%2Fezgif.com-crop-3.gif?v=1615035678652)
 
 
@@ -56,8 +59,8 @@ Gif 3, showing the win alert with the timer:
 
 
 
-## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+# Reflection Questions
+### 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
 
 I have used stack overflow for the advice on the timer() function: https://stackoverflow.com/questions/31106189/create-a-simple-10-second-countdown
@@ -69,7 +72,7 @@ For the gradient animation:  https://codepen.io/P1N2O/pen/pyBNzX
 For the random sequence: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
 
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+### 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
 
 The project overall was not hard since a lot of it is following the guide. Creating the additional features was exciting and required some more research, but I did not struggle to find and implement the solutions. My biggest challenge was working in HTML and CSS.
@@ -82,7 +85,7 @@ Setting aside the time to learn the meanings of the parameters I was using has h
 
 
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+### 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
 I have many questions. I have probably seen just a tiny piece of what a programmer can do, and I am curious to learn more through projects. This project was much fun, and it evoked my interest in WebDev. I want to learn more, and I liked developing because I can see the result of my work right away and interact with users more directly. 
 
@@ -100,7 +103,7 @@ I would need to implement all these components into the game for people to play 
 
 
 I would also work on design improvement to make it minimalistic but appealing for the users. As of now, I have no knowledge of CSS and HTML, and my skills are limited, but I would be excited to learn intermediate and advanced tools to make my game stand out.
-## License
+# License
 
     Copyright [Milana Stetsenko]
 
