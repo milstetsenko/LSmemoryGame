@@ -1,0 +1,144 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #BBD49C;;
+  color: white; 
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif; 
+  color: white;
+}
+button{
+  padding: 20px;
+border-radius: 100px;
+
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+  padding: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+
+
+/* Styling the game Buttons */
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+  padding: 10px;
+}
+
+/* Styling the colors of four game buttons */
+
+
+/*  Button 1*/
+#button1{background: #3E3A4D}
+#button1:active, #button1.lit {background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX6pit-W5OMzzFPY1-69RpfJ-o63ZMus5hng&usqp=CAU);
+background-size: 100%;}
+
+
+/*  Button 2*/
+#button2{background: #62A1A0}
+#button2:active, #button2.lit {
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx_8_YrqFYUelI3gBs5aZOz-DoxX6dG4_AzD1XOyBVYePZsvYeBpq7-Ep5hbuOhJmbX84&usqp=CAU);
+background-size: 100%;}
+
+
+/*  Button 3*/
+#button3{background: #EFED98}
+#button3:active, #button3.lit {background-image: url(https://lh3.googleusercontent.com/proxy/Qvq0bq4rm0n7MLcEs4F4etjYPBSzD7nqEJlxXb24BqAf_WM7u0rMoTa-vCJ2Ec_P44EieNRDp5WWj56CLwE3tSdnR8K0K0s);
+background-size: 100%;}
+
+
+/*  Button 4*/
+#button4{background: #E55D50}
+#button4:active, #button4.lit {background-image: url(data:image/png;base64,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);
+background-size: 100%;}
+
+
+/*  Button 5*/
+#button5{background: #E55D70}
+#button5:active, #button5.lit {background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqLA4_Oodd28l3d_RvWtXEAxwbOUbfoEOwaA&usqp=CAU);
+background-size: 100%}
+
+
+
+/*  Styling the timer*/
+#countdown {
+    padding: 20px;
+    margin: left;
+    border-radius: 100px;
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  animation: gradient 15s ease infinite;
+  float: center;
+  
+  
+  
+text-align: center;
+        width: 100px;
+    	height: 90px;
+    	color: #fff;
+    	background: linear-gradient(0deg, red, yellow, green);
+    	background-size: 400% 400%;
+    	-webkit-animation: Gradient 15s ease infinite;
+    	-moz-animation: Gradient 15s ease infinite;
+    	animation: Gradient 15s ease infinite;
+
+        }
+       @-webkit-keyframes Gradient {
+    	0% {
+    		background-position: 50% 0%
+    	}
+    	50% {
+    		background-position: 50% 100%
+    	}
+    	100% {
+    		background-position: 50% 0%
+    	}
+    }
+
+    @-moz-keyframes Gradient {
+    	0% {
+    		background-position: 50% 0%
+    	}
+    	50% {
+    		background-position: 50% 100%
+    	}
+    	100% {
+    		background-position: 50% 0%
+    	}
+    }
+
+    @keyframes Gradient {
+    	0% {
+    		background-position: 50% 0%
+    	}
+    	50% {
+    		background-position: 50% 100%
+    	}
+    	100% {
+    		background-position: 50% 0%
+    	}
+}
+
+span {
+/* 	display: block;
+/* 	width: 100%; */
+float:left
+	padding: 50px;
+  
+/* 	text-align: right;
+	font-size: 30px; */
+}
+
