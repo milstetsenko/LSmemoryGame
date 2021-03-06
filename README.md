@@ -95,7 +95,7 @@ As for more specific questions, I am curious to know more about passing the data
 
 
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+### 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
 As I mentioned before, I would store user's data.  I would have to connect it to some database, update it, pull data from the database to output the leaderboards, rankings, user's profiles. 
 
